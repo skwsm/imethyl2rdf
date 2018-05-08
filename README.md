@@ -3,7 +3,7 @@
 ```
 Usage: imethyl2rdf [options]
     -v              verbose mode 
-    -t              split by chromosome (optional)
+    -t              split output by chromosome (optional)
     -c COMMNAD      stats || dataset (required)
     -i FILENAME     input file (required)
     -s DATASET      dataset name (required when -c stats)
