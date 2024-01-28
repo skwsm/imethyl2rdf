@@ -111,7 +111,7 @@ module  IMethyl
        a faldo:ExactPosition;
        faldo:position #{ary[1]};
        faldo:reference hg19:#{ary[0]};
-       faldo:reference hco:#{ary[0]}
+       faldo:reference hco:#{ary[0]}\/GRCh38
      ];
      imo:sample imd:#{@dataset};
      sio:SIO_000216 [
