@@ -97,7 +97,7 @@ module  IMethyl
 @prefix taxonomy: <http://identifiers.org/taxonomy/> .
 @prefix pubmed: <http://rdf.ncbi.nlm.nih.gov/pubmed/> .
 @prefix faldo: <http://biohackathon.org/resource/faldo#> .
-@prefix hg19: <http://rdf.ebi.ac.uk/resource/ensembl/90/homo_sapiens/GRCh38/> .
+@prefix hg19: <http://rdf.ebi.ac.uk/resource/ensembl/111/homo_sapiens/GRCh38/> .
 @prefix hco: <http://identifiers.org/hco/> .
 
       PREFIX
